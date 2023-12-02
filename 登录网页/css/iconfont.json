@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16614303",
+      "name": "details",
+      "font_class": "details",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "18674726",
+      "name": "返回3",
+      "font_class": "zujian-icon-23",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "22254679",
+      "name": "AddPhoto",
+      "font_class": "AddPhoto",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    }
+  ]
+}
